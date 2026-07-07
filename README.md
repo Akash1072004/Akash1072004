@@ -103,7 +103,7 @@
         <li>Modern UI principles and component-based structure.</li>
         <li>Strict cross-browser compatibility and responsive design.</li>
       </ul>
-      <a href="https://github.com/Akash1072004/Amazon-UI-using-HTML-and-CS" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
+      <a href="https://github.com/Akash1072004/Amazon-UI-using-HTML-and-CSS" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
     </td>
   </tr>
 </table>
