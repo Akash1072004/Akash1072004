@@ -5,7 +5,7 @@
 
 ### Software Developer • Competitive Programmer • Full Stack Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=600%2B+DSA+Problems+Solved;Software+Engineering+Enthusiast;Building+Scalable+AI+Applications;Hackathon+Winner;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=600%2B+DSA+Problems+Solved;Software+Engineering+Enthusiast;Building+Scalable+Agentic+AI+Applications;Hackathon+Winner;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p align="center">
 <a href="https://leetcode.com/u/Akash1072004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1730%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
@@ -23,15 +23,15 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      I am an Information Technology undergraduate at <b>Rajkiya Engineering College, Banda</b>, with a deep passion for problem-solving, algorithms, and backend architecture. I thrive at the intersection of competitive programming and software engineering, actively building scalable applications and AI-driven solutions.<br><br>
-      Currently, I am intensely focused on mastering system design, advanced data structures, and optimizing time-space complexities to prepare for impactful roles in the tech industry.<br><br>
-      - 💡 <b>Interests:</b> System Architecture, Artificial Intelligence, Full Stack Development, Cloud Computing.<br>
-      - 🎯 <b>Current Focus:</b> Securing a Software Engineering (SDE) Internship, scaling personal projects, and hitting 2000+ on LeetCode.<br>
-      - 🤝 <b>Collaboration:</b> Always open to collaborating on open-source projects and hackathons.
+      I am an Information Technology undergraduate at <b>Rajkiya Engineering College, Banda</b>, with a deep passion for problem-solving, algorithms, and backend architecture. I thrive at the intersection of competitive programming and software engineering, actively building scalable applications and <b>Agentic AI-driven solutions</b>.<br><br>
+      Currently, I am intensely focused on mastering system design, advanced data structures, and optimizing time-space complexities. Beyond coding, I am passionate about technical leadership and giving back to the developer community through my coding YouTube channel, <b>KrapCode</b>.<br><br>
+      - 💡 <b>Interests:</b> System Architecture, Agentic AI, Full Stack Development, Cloud Computing.<br>
+      - 🎯 <b>Current Focus:</b> Securing a Software Engineering (SDE) Internship and hitting 2000+ on LeetCode.<br>
+      - 🤝 <b>Community:</b> Actively sharing tech knowledge and solving complex problems on KrapCode.
     </td>
     <td width="30%" align="center" valign="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
-      Think. Code. Create.
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding Animation"/>
+      <br>Think. Code. Create.
     </td>
   </tr>
 </table>
@@ -64,22 +64,22 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI Code Visualizer</h3>
-      <p>An intelligent platform leveraging the <b>Google Gemini API</b> to explain code, detect bugs, and perform optimization and dry-runs.</p>
+      <p>An intelligent platform leveraging the <b>Google Gemini API</b> to automate code explanation, detect bugs, and perform optimization and dry-runs, significantly reducing manual debugging time.</p>
       <p><b>Tech Stack:</b> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Gemini API</code></p>
       <ul>
         <li>Automated Time & Space Complexity analysis.</li>
-        <li>Real-time code optimization and bug detection.</li>
+        <li>Real-time code optimization and intelligent bug detection.</li>
       </ul>
       <a href="https://github.com/Akash1072004/AI-Code-Visualizer" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
       <a href="https://ai-code-visualizer-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=flat-square&logo=vercel"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 HealthGuard AI</h3>
-      <p>An autonomous AI-powered crisis management and healthcare assistant designed for intelligent health recommendations and symptom analysis.</p>
+      <p>An autonomous <b>Agentic AI system</b> for crisis management, utilizing forecasting and resource optimization agents to provide intelligent health recommendations for hospitals.</p>
       <p><b>Tech Stack:</b> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
       <ul>
-        <li>Secure authentication and responsive UI.</li>
         <li>Intelligent patient symptom analysis pipeline.</li>
+        <li>Predictive analytics for resource allocation and optimization.</li>
       </ul>
       <a href="https://github.com/Akash1072004/HealthGuard-AI" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
     </td>
@@ -87,21 +87,21 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌊 Smart Drainage & Flood Prevention</h3>
-      <p>A smart city solution integrating AI & IoT for real-time flood monitoring and proactive drainage management.</p>
+      <p>A smart city solution integrating AI & IoT for real-time flood monitoring and proactive drainage management to mitigate urban flooding risks.</p>
       <p><b>Tech Stack:</b> <code>IoT</code> <code>AI</code> <code>Node.js</code> <code>MongoDB</code></p>
       <ul>
         <li>Live dashboard for municipal monitoring.</li>
-        <li>Predictive analytics for flood risk.</li>
+        <li>Predictive analytics for early flood risk detection.</li>
       </ul>
       <a href="https://github.com/Akash1072004/Smart-Drainage-and-Flood-Prevention-System-" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Amazon UI Clone</h3>
-      <p>A pixel-perfect, fully responsive clone of the Amazon homepage demonstrating strong frontend capabilities.</p>
+      <p>A pixel-perfect, fully responsive clone of the Amazon homepage demonstrating a strong command over frontend capabilities and layout architecture.</p>
       <p><b>Tech Stack:</b> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
       <ul>
         <li>Modern UI principles and component-based structure.</li>
-        <li>Cross-browser compatibility.</li>
+        <li>Strict cross-browser compatibility and responsive design.</li>
       </ul>
       <a href="https://github.com/Akash1072004/Amazon-UI-using-HTML-and-CS" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
     </td>
@@ -112,37 +112,16 @@
 
 ## 🏆 Achievements & Problem Solving
 
-Recruiters at top companies value strong algorithmic thinking. Here is a snapshot of my competitive programming journey:
+Recruiters at top engineering companies value strong algorithmic thinking. Here is a snapshot of my competitive programming journey:
 
 <div align="center">
 
 | 🧩 Problem Solving | 🏅 Competitive Programming | 🚀 Hackathons |
 | :--- | :--- | :--- |
-| **600+** Total DSA Problems | **LeetCode:** 1730+ Rating | 🥇 **Winner** - Arjuna 2.0 (NIT Agartala, 2025) |
-| **400+** LeetCode Problems | **Codeforces:** 1245 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
-| **150+** Codeforces Problems | **CodeChef:** 1475 Max Rating | Organized **HackFest 2.0** at REC Banda |
+| **600+** Total DSA Problems Solved | **LeetCode:** 1730+ Rating | 🥇 **Winner** - Arjuna 2.0 (NIT Agartala, 2025) |
+| **400+** LeetCode Problems Solved | **Codeforces:** 1245 Max Rating | 🥈 **Finalist** - MumbaiHack 2.0 (Top 500/3500) |
+| **150+** Codeforces Problems Solved | **CodeChef:** 1475 Max Rating | Organized **HackFest 2.0** at REC Banda |
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akash1072004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1072004&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akash1072004&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akash1072004/Akash1072004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
