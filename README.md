@@ -1,75 +1,88 @@
-# <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
+<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
+
+<h3 align="center">
+Software Developer • Competitive Programmer • Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;MERN+Stack+Developer;AI+Enthusiast;Hackathon+Winner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Developer;Competitive+Programmer;600%2B+DSA+Problems+Solved;400%2B+LeetCode+Problems;150%2B+Codeforces+Problems;Hackathon+Winner;Building+AI+Applications;Always+Learning..." />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 B.Tech IT Student
-* 💻 Competitive Programmer
-* 🤖 Building AI-powered applications
-* 🌱 Learning Advanced DSA, MERN Stack & System Design
-* 🚀 Goal: Software Engineer at Google
-
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js,react,nodejs,express,mongodb,git,github,vscode,html,css"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash1072004&show_icons=true&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=Akash1072004&label=Profile%20Views&style=for-the-badge"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1072004&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Open%20To-SDE%20Internships-success?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 👨‍💻 About Me
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+### Hello!
+
+I'm a **B.Tech Information Technology** student at **Rajkiya Engineering College, Banda**, passionate about solving real-world problems through software development, competitive programming and AI.
+
+### 📈 Coding Journey
+
+- **600+ DSA Problems Solved**
+- **400+ LeetCode Problems**
+- **150+ Codeforces Problems**
+
+### ⭐ Ratings
+
+- LeetCode **1730+**
+- Codeforces **Max 1245**
+- CodeChef **Max 1475**
+
+### 🏆 Achievements
+
+- 🥇 Winner — **Arjuna 2.0 Hackathon @ NIT Agartala (2025)**
+- 🥈 MumbaiHack 2.0 Finalist (Top 500 Teams among 3500+)
+
+### 🌱 Currently Learning
+
+- Advanced DSA
+- Backend Development
+- System Design
+- DevOps
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akash1072004&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Akash1072004&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,postman"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Highlights
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akash1072004&theme=algolia&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-## 🚀 Featured Project
-
-⭐ **AI Code Visualizer**
-
-* React
-* Node.js
-* MongoDB
-* Google Gemini API
-* JWT Authentication
+- 🥇 Winner — Arjuna 2.0 Hackathon @ NIT Agartala
+- 🥈 MumbaiHack 2.0 Finalist
+- 💻 600+ DSA Problems Solved
+- 🚀 Passionate about AI & Full Stack Development
+- 📚 Always learning new technologies
 
 ---
-
-## 🌐 Connect with Me
-
-* GitHub: https://github.com/Akash1072004
