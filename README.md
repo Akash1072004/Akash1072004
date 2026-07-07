@@ -23,11 +23,14 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      I am an Information Technology undergraduate at <b>Rajkiya Engineering College, Banda</b>, with a deep passion for problem-solving, algorithms, and backend architecture. I thrive at the intersection of competitive programming and software engineering, actively building scalable applications and <b>Agentic AI-driven solutions</b>.<br><br>
-      Currently, I am intensely focused on mastering system design, advanced data structures, and optimizing time-space complexities. Beyond coding, I am passionate about technical leadership and giving back to the developer community through my coding YouTube channel, <b>KrapCode</b>.<br><br>
-      - 💡 <b>Interests:</b> System Architecture, Agentic AI, Full Stack Development, Cloud Computing.<br>
-      - 🎯 <b>Current Focus:</b> Securing a Software Engineering (SDE) Internship and hitting 2000+ on LeetCode.<br>
-      - 🤝 <b>Community:</b> Actively sharing tech knowledge and solving complex problems on KrapCode.
+
+I am an Information Technology undergraduate at Rajkiya Engineering College, Banda, passionate about solving challenging algorithmic problems and building scalable software. My primary interests lie in **Competitive Programming**, **Data Structures & Algorithms**, **Full Stack Development**, and **Artificial Intelligence & Machine Learning**.
+
+I enjoy transforming complex ideas into efficient, real-world applications while continuously improving my problem-solving skills through coding contests and software development. I am always eager to explore new technologies and deepen my understanding of modern software engineering.
+
+* 🚀 **Core Interests:** Competitive Programming, Data Structures & Algorithms, Full Stack Development, Artificial Intelligence & Machine Learning
+* 💻 **Currently Learning:** Advanced Data Structures & Algorithms, System Design, Backend Development, and AI/ML
+
     </td>
     <td width="30%" align="center" valign="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding Animation"/>
