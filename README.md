@@ -12,7 +12,7 @@
 <a href="https://codeforces.com/profile/CosmicByte_1010" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Max%201245-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/cosmic_byte" target="_blank"><img src="https://img.shields.io/badge/CodeChef-Max%201475-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1_XlzYUNBnjPPUzKwEp_lPQsbudiQVdEa/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/akashkumarzx/" target="_blank"><img src="https://img.shields.io/badge/Open%20To-SDE%20Internships-16a34a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akashkumarzx/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 </div>
 
