@@ -3,9 +3,9 @@
 
 # Hi 👋, I'm Akash Kumar
 
-### Software Developer • Competitive Programmer • Full Stack Engineer
+### Software Developer • Competitive Programmer • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=600%2B+DSA+Problems+Solved;Software+Engineering+Enthusiast;Building+Scalable+Agentic+AI+Applications;Hackathon+Winner;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=600%2B+DSA+Problems+Solved;Competitive+Programmer;Full+Stack+Developer;Hackathon+Winner;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p align="center">
 <a href="https://leetcode.com/u/Akash1072004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1730%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
