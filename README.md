@@ -68,7 +68,7 @@ I enjoy transforming complex ideas into efficient, real-world applications while
     <td width="50%" valign="top">
       <h3>🤖 AI Code Visualizer</h3>
       <p>An intelligent platform leveraging the <b>Google Gemini API</b> to automate code explanation, detect bugs, and perform optimization and dry-runs, significantly reducing manual debugging time.</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Gemini API</code></p>
+      <p><b>Tech Stack:</b> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Gemini API</code> <code> Authentication: JWT, Google OAuth 2.0</code></p>
       <ul>
         <li>Automated Time & Space Complexity analysis.</li>
         <li>Real-time code optimization and intelligent bug detection.</li>
