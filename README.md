@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=600%2B+DSA+Problems+Solved;Competitive+Programmer;Full+Stack+Developer;Hackathon+Winner;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p align="center">
-<a href="https://leetcode.com/u/Akash1072004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1730%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Akash1072004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Max%201743-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/CosmicByte_1010" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Max%201245-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/cosmic_byte" target="_blank"><img src="https://img.shields.io/badge/CodeChef-Max%201475-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a href="https://drive.google.com/file/d/1_XlzYUNBnjPPUzKwEp_lPQsbudiQVdEa/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
