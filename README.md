@@ -5,7 +5,7 @@
 
 ### Software Developer • Competitive Programmer • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Competitive+Programmer;Pupil+%40+Codeforces;LeetCode+Max+Rating+1743;2%E2%AD%90+%40+CodeChef;Full+Stack+Developer;Hackathon+Winner;Learning+AI+%26+Machine+Learning;Building+Scalable+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&lines=Competitive+Programmer;Pupil+%40+Codeforces;LeetCode+Max+Rating+1770;2%E2%AD%90+%40+CodeChef;Full+Stack+Developer;Hackathon+Winner;Learning+AI+%26+Machine+Learning;Building+Scalable+Software" alt="Typing SVG" />
 
 <p align="center">
 <a href="https://leetcode.com/u/Akash1072004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Max%201743-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
