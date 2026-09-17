@@ -11,7 +11,7 @@
 <a href="https://leetcode.com/u/Akash1072004/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Max%201882-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/CosmicByte_1010" target="_blank"><img src="https://img.shields.io/badge/Codeforces-Max%201245-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/cosmic_byte" target="_blank"><img src="https://img.shields.io/badge/CodeChef-Max%201488-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://drive.google.com/file/d/1_XlzYUNBnjPPUzKwEp_lPQsbudiQVdEa/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/16AWZnEkOW1KYx4IefLjvSrTJzm5CQ-Eq/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/akashkumarzx/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 </div>
