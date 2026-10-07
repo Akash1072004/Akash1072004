@@ -52,7 +52,7 @@ I enjoy transforming complex ideas into efficient, real-world applications while
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" /><br><br>
 
 **Backend & Databases**<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgresql" /><br><br>
 
 **Tools & Platforms**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
