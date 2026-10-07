@@ -67,7 +67,7 @@ I enjoy transforming complex ideas into efficient, real-world applications while
 
 <!-- MOCKMATE -->
 <td width="50%" valign="top">
-  <h3>🤖 MockMate — AI & Peer-to-Peer Interview Platform</h3>
+  <h3> 💻MockMate — AI & Peer-to-Peer Interview Platform</h3>
 
   <p>
     A full-stack technical interview platform combining
