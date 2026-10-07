@@ -63,53 +63,146 @@ I enjoy transforming complex ideas into efficient, real-world applications while
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Code Visualizer</h3>
-      <p>An intelligent platform leveraging the <b>Google Gemini API</b> to automate code explanation, detect bugs, and perform optimization and dry-runs, significantly reducing manual debugging time.</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Gemini API</code> <code> Authentication: JWT, Google OAuth 2.0</code></p>
-      <ul>
-        <li>Automated Time & Space Complexity analysis.</li>
-        <li>Real-time code optimization and intelligent bug detection.</li>
-      </ul>
-      <a href="https://github.com/Akash1072004/AI-Code-Visualizer" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
-      <a href="https://ai-code-visualizer-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0055FF?style=flat-square&logo=vercel"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 HealthGuard AI</h3>
-      <p>An autonomous <b>Agentic AI system</b> for crisis management, utilizing forecasting and resource optimization agents to provide intelligent health recommendations for hospitals.</p>
-      <p><b>Tech Stack:</b> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
-      <ul>
-        <li>Intelligent patient symptom analysis pipeline.</li>
-        <li>Predictive analytics for resource allocation and optimization.</li>
-      </ul>
-      <a href="https://github.com/Akash1072004/HealthGuard-AI" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌊 Smart Drainage & Flood Prevention</h3>
-      <p>A smart city solution integrating AI & IoT for real-time flood monitoring and proactive drainage management to mitigate urban flooding risks.</p>
-      <p><b>Tech Stack:</b> <code>IoT</code> <code>AI</code> <code>Node.js</code> <code>MongoDB</code></p>
-      <ul>
-        <li>Live dashboard for municipal monitoring.</li>
-        <li>Predictive analytics for early flood risk detection.</li>
-      </ul>
-      <a href="https://github.com/Akash1072004/Smart-Drainage-and-Flood-Prevention-System-" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 Amazon UI Clone</h3>
-      <p>A pixel-perfect, fully responsive clone of the Amazon homepage demonstrating a strong command over frontend capabilities and layout architecture.</p>
-      <p><b>Tech Stack:</b> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <ul>
-        <li>Modern UI principles and component-based structure.</li>
-        <li>Strict cross-browser compatibility and responsive design.</li>
-      </ul>
-      <a href="https://github.com/Akash1072004/Amazon-UI-using-HTML-and-CSS" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/></a>
-    </td>
-  </tr>
-</table>
+<table> <tr>
+
+<!-- MOCKMATE -->
+<td width="50%" valign="top">
+  <h3>🤖 MockMate — AI & Peer-to-Peer Interview Platform</h3>
+
+  <p>
+    A full-stack technical interview platform combining
+    <b>adaptive AI interviews, live peer-to-peer interviews,
+    real-time collaboration, and automated technical evaluation.</b>
+  </p>
+
+  <p>
+    <b>Tech Stack:</b>
+    <code>React</code>
+    <code>Node.js</code>
+    <code>Express</code>
+    <code>Supabase</code>
+    <code>PostgreSQL</code>
+    <code>WebRTC</code>
+    <code>Gemini API</code>
+    <code>Monaco Editor</code>
+  </p>
+
+  <ul>
+    <li>AI-powered Technical, DSA & HR interview simulations.</li>
+    <li>Adaptive follow-up questions with structured evaluation.</li>
+    <li>Live peer interviews with WebRTC video/audio.</li>
+    <li>Collaborative coding with server-side code execution.</li>
+    <li>Automated scoring, interview reports and leaderboards.</li>
+  </ul>
+
+  <a href="https://github.com/Akash1072004/MockMate" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/>
+  </a>
+
+  <a href="https://mock-mate-ashy.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-0055FF?style=flat-square&logo=vercel"/>
+  </a>
+</td>
+
+<!-- AI CODE VISUALIZER -->
+<td width="50%" valign="top">
+  <h3>🧠 AI Code Visualizer</h3>
+
+  <p>
+    An intelligent developer tool leveraging the
+    <b>Google Gemini API</b> to explain code, detect bugs,
+    analyze complexity, optimize solutions, and perform
+    step-by-step dry runs.
+  </p>
+
+  <p>
+    <b>Tech Stack:</b>
+    <code>React</code>
+    <code>Node.js</code>
+    <code>Express</code>
+    <code>MongoDB</code>
+    <code>Gemini API</code>
+    <code>JWT</code>
+    <code>Google OAuth 2.0</code>
+  </p>
+
+  <ul>
+    <li>Automated Time & Space Complexity analysis.</li>
+    <li>AI-powered bug detection and code optimization.</li>
+    <li>Step-by-step code execution and explanation.</li>
+  </ul>
+
+  <a href="https://github.com/Akash1072004/AI-Code-Visualizer" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/>
+  </a>
+
+  <a href="https://ai-code-visualizer-ten.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-0055FF?style=flat-square&logo=vercel"/>
+  </a>
+</td>
+
+</tr>
+
+<tr>
+
+<!-- SMART DRAINAGE -->
+<td width="50%" valign="top">
+  <h3>🌊 Smart Drainage & Flood Prevention</h3>
+
+  <p>
+    A smart city solution integrating <b>AI & IoT</b> for
+    real-time flood monitoring and proactive drainage management
+    to mitigate urban flooding risks.
+  </p>
+
+  <p>
+    <b>Tech Stack:</b>
+    <code>IoT</code>
+    <code>AI</code>
+    <code>Node.js</code>
+    <code>MongoDB</code>
+  </p>
+
+  <ul>
+    <li>Live dashboard for municipal monitoring.</li>
+    <li>Predictive analytics for early flood risk detection.</li>
+    <li>Real-time monitoring for drainage infrastructure.</li>
+  </ul>
+
+  <a href="https://github.com/Akash1072004/Smart-Drainage-and-Flood-Prevention-System-" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/>
+  </a>
+</td>
+
+<!-- AMAZON UI -->
+<td width="50%" valign="top">
+  <h3>🛒 Amazon UI Clone</h3>
+
+  <p>
+    A pixel-perfect and responsive recreation of the Amazon
+    homepage demonstrating strong frontend development,
+    layout architecture, and responsive design skills.
+  </p>
+
+  <p>
+    <b>Tech Stack:</b>
+    <code>HTML</code>
+    <code>CSS</code>
+    <code>JavaScript</code>
+  </p>
+
+  <ul>
+    <li>Responsive and structured frontend architecture.</li>
+    <li>Modern UI principles and reusable layouts.</li>
+    <li>Cross-browser compatible responsive design.</li>
+  </ul>
+
+  <a href="https://github.com/Akash1072004/Amazon-UI-using-HTML-and-CSS" target="_blank">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github"/>
+  </a>
+</td>
+
+</tr> </table>
 
 ---
 
