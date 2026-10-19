@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
 
-# Hi 👋, I'm Akash Kumar
+# Hi 👋, I'm Akash 
 
 ### Software Developer • Competitive Programmer • Full Stack Developer
 
